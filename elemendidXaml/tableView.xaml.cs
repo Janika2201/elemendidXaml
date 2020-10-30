@@ -28,6 +28,7 @@ namespace elemendidXaml
                         Keyboard = Keyboard.Default
                     },
                     new SwitchCell { Text = "Сохранить"}
+                    
                 },
                 new TableSection ("Контакты")
                 {

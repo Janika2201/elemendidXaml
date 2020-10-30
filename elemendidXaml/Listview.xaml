@@ -5,15 +5,14 @@
     <ContentPage.Resources>
         <ResourceDictionary>
             <x:Array x:Key="phones" Type="{x:Type x:String}">
-                <x:String>iPhone 7</x:String>
-                <x:String>HP Elite z3</x:String>
-                <x:String>Huawei P10</x:String>
-                <x:String>Xiaomi Mi6</x:String>
+                <x:String>iPhone 4 Cтарая модель 2016 года</x:String>
+                <x:String>iPhone 5 Cтарая модель</x:String>
+                <x:String>iPhone 12 Новая модель 2020 года</x:String>
             </x:Array>
         </ResourceDictionary>
     </ContentPage.Resources>
     <StackLayout>
-        <Label Text="Список моделей" HorizontalOptions="Center" FontSize="Large" />
-        <ListView x:Name="phonesList" ItemsSource="{StaticResource Key=phones}" />
+        <Label Text="Список айфонов нажми на них!" HorizontalOptions="Center" FontSize="Medium" BackgroundColor="LawnGreen" />
+        <ListView x:Name="phonesList" ItemsSource="{StaticResource Key=phones}" ItemSelected="phonesList_ItemSelected"/>
     </StackLayout>
 </ContentPage>

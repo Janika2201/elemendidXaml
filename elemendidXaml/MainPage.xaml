@@ -6,13 +6,13 @@
 
     <ContentPage.Content>
         <StackLayout Padding="50,10,50,10" BackgroundColor="Lavender">
+            <Button Text="ListView" Clicked="Button_Clicked_6" TextColor="White" BackgroundColor="DarkSlateGray" ></Button>
             <Button Text="Timer" Clicked="Button_Clicked" TextColor="White" BackgroundColor="DarkSlateGray"></Button>
             <Button Text="webView" Clicked="Button_Clicked_1" TextColor="White" BackgroundColor="DarkSlateGray"></Button>
             <Button Text="TableView" Clicked="Button_Clicked_2" TextColor="White" BackgroundColor="DarkSlateGray"></Button>
             <Button Text="DatePicker" Clicked="Button_Clicked_3" TextColor="White" BackgroundColor="DarkSlateGray"></Button>
             <Button Text="Picker" Clicked="Button_Clicked_4" TextColor="White" BackgroundColor="DarkSlateGray"></Button>
             <Button Text="TimerPicker" Clicked="Button_Clicked_5" TextColor="White" BackgroundColor="DarkSlateGray"></Button>
-            <Button Text="ListView" Clicked="Button_Clicked_6" TextColor="White" BackgroundColor="DarkSlateGray" ></Button>
             <Button Text="Switch" Clicked="Button_Clicked_7" TextColor="White" BackgroundColor="DarkSlateGray" ></Button>
             <Button Text="PopupWindows" Clicked="Button_Clicked_8" TextColor="White" BackgroundColor="DarkSlateGray" ></Button>
 

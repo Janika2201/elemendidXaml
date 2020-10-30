@@ -20,3 +20,8 @@ C:\Users\opilane\source\repos\Valjataga\elemendidXaml\elemendidXaml\bin\Debug\ne
 C:\Users\opilane\source\repos\Valjataga\elemendidXaml\elemendidXaml\bin\Debug\netstandard2.0\ref\elemendidXaml.dll
 C:\Users\opilane\source\repos\Valjataga\elemendidXaml\elemendidXaml\bin\Debug\netstandard2.0\elemendidXaml.pdb
 C:\Users\opilane\source\repos\Valjataga\elemendidXaml\elemendidXaml\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\opilane\source\repos\Valjataga\elemendidXaml\elemendidXaml\obj\Debug\netstandard2.0\iphone 4.xaml.g.cs
+C:\Users\opilane\source\repos\Valjataga\elemendidXaml\elemendidXaml\obj\Debug\netstandard2.0\elemendidXaml.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Valjataga\elemendidXaml\elemendidXaml\obj\Debug\netstandard2.0\iphone5.xaml.g.cs
+C:\Users\opilane\source\repos\Valjataga\elemendidXaml\elemendidXaml\obj\Debug\netstandard2.0\iphone11.xaml.g.cs
+C:\Users\opilane\source\repos\Valjataga\elemendidXaml\elemendidXaml\obj\Debug\netstandard2.0\iphone12.xaml.g.cs

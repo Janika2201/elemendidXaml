@@ -21,8 +21,9 @@ namespace elemendidXaml
             {
                 Format = "D"
             };
-            datePicker.DateSelected += DatePicker_DateSelected; ;
+            datePicker.DateSelected += DatePicker_DateSelected;
             StackLayout stack = new StackLayout { Children = { label, datePicker } };
+            stack.BackgroundColor = Color.IndianRed;
             this.Content = stack;
         }
 

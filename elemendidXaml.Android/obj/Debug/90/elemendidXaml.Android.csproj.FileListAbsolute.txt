@@ -463,3 +463,7 @@ C:\Users\opilane\source\repos\Valjataga\elemendidXaml\elemendidXaml.Android\obj\
 C:\Users\opilane\source\repos\Valjataga\elemendidXaml\elemendidXaml.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\opilane\source\repos\Valjataga\elemendidXaml\elemendidXaml.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\opilane\source\repos\Valjataga\elemendidXaml\elemendidXaml.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\opilane\source\repos\Valjataga\elemendidXaml\elemendidXaml.Android\obj\Debug\90\res\drawable\iphone4.jpg
+C:\Users\opilane\source\repos\Valjataga\elemendidXaml\elemendidXaml.Android\obj\Debug\90\res\drawable\iphone5.webp
+C:\Users\opilane\source\repos\Valjataga\elemendidXaml\elemendidXaml.Android\obj\Debug\90\res\drawable\iphone11.jpg
+C:\Users\opilane\source\repos\Valjataga\elemendidXaml\elemendidXaml.Android\obj\Debug\90\res\drawable\iphone12.jpg

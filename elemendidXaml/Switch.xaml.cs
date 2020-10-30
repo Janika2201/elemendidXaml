@@ -18,7 +18,7 @@ namespace elemendidXaml
         }
         private void Switch_Toggled(object sender, ToggledEventArgs e)
         {
-            label.Text = String.Format("Значениее чегото  {0}", e.Value);
+            label.Text = String.Format("Значение  {0}", e.Value);
         }
     }
 }

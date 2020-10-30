@@ -12,9 +12,34 @@ namespace elemendidXaml
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class webview : ContentPage
     {
+        WebView webView;
+        Entry urlEntry;
         public webview()
         {
-            InitializeComponent();
+            urlEntry = new Entry { HorizontalOptions = LayoutOptions.FillAndExpand };
+            Button button = new Button { Text = "Go" };
+            button.Clicked += Button_Clicked; ;
+            StackLayout stack = new StackLayout
+            {
+                Orientation = StackOrientation.Horizontal,
+                Children = { button, urlEntry }
+            };
+            webView = new WebView
+            {
+                Source = new UrlWebViewSource { Url = "https://valjataga19.thkit.ee/" },
+                // или так
+                // Source = "https://valjataga19.thkit.ee/",
+                VerticalOptions = LayoutOptions.FillAndExpand
+            };
+
+            this.Content = new StackLayout { Children = { stack, webView } };
+        }
+
+        private void Button_Clicked(object sender, EventArgs e)
+        {
+            webView.Source = new UrlWebViewSource { Url = urlEntry.Text };
+            // или так
+            // webView.Source = urlEntry.Text;
         }
     }
 }
