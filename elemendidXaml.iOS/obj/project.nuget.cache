@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2+OHXNNmCA2g7yNqrmpuCAQpZUE6gw2qd5ZEzFG8cWrE6M/wjkSkpuzMml4clIMQTusY2Q2CYtw72E1bPtbKJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\Valjataga\\elemendidXaml\\elemendidXaml.iOS\\elemendidXaml.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
