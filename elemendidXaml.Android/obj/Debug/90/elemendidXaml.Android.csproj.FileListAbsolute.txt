@@ -467,3 +467,7 @@ C:\Users\opilane\source\repos\Valjataga\elemendidXaml\elemendidXaml.Android\obj\
 C:\Users\opilane\source\repos\Valjataga\elemendidXaml\elemendidXaml.Android\obj\Debug\90\res\drawable\iphone5.webp
 C:\Users\opilane\source\repos\Valjataga\elemendidXaml\elemendidXaml.Android\obj\Debug\90\res\drawable\iphone11.jpg
 C:\Users\opilane\source\repos\Valjataga\elemendidXaml\elemendidXaml.Android\obj\Debug\90\res\drawable\iphone12.jpg
+C:\Users\opilane\source\repos\Valjataga\elemendidXaml\elemendidXaml.Android\obj\Debug\90\res\drawable\iphone10.jpg
+C:\Users\opilane\source\repos\Valjataga\elemendidXaml\elemendidXaml.Android\obj\Debug\90\res\drawable\iphone6s.jpg
+C:\Users\opilane\source\repos\Valjataga\elemendidXaml\elemendidXaml.Android\obj\Debug\90\res\drawable\iphone7.jpg
+C:\Users\opilane\source\repos\Valjataga\elemendidXaml\elemendidXaml.Android\obj\Debug\90\res\drawable\iphone8plus.jpg

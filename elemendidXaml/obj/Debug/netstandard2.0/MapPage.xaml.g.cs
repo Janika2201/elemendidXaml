@@ -8,17 +8,17 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("elemendidXaml.popupwindows.xaml", "popupwindows.xaml", typeof(global::elemendidXaml.popupwindows))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("elemendidXaml.MapPage.xaml", "MapPage.xaml", typeof(global::elemendidXaml.MapPage))]
 
 namespace elemendidXaml {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("popupwindows.xaml")]
-    public partial class popupwindows : global::Xamarin.Forms.ContentPage {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("MapPage.xaml")]
+    public partial class MapPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(popupwindows));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(MapPage));
         }
     }
 }

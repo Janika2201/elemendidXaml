@@ -56,7 +56,12 @@ namespace elemendidXaml
 
         private async void Button_Clicked_8(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new popupwindows());
+            await Navigation.PushAsync(new TextToSpeech());
+        }
+
+        private async void Button_Clicked_9(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new MainPage());
         }
     }
 }

@@ -8,6 +8,10 @@
                 <x:String>iPhone 4 Cтарая модель 2016 года</x:String>
                 <x:String>iPhone 5 Cтарая модель</x:String>
                 <x:String>iPhone 12 Новая модель 2020 года</x:String>
+                <x:String>iPhone 10 Новая модель 2020 года</x:String>
+                <x:String>iPhone 6s Старая модель 2018 года</x:String>
+                <x:String>iPhone 7 Старая модель 2018 года</x:String>
+                <x:String>iPhone 8plus Старая модель 2017 года</x:String>
             </x:Array>
         </ResourceDictionary>
     </ContentPage.Resources>

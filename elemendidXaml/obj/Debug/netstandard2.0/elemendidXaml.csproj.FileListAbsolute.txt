@@ -3,7 +3,6 @@ C:\Users\opilane\source\repos\Valjataga\elemendidXaml\elemendidXaml\obj\Debug\ne
 C:\Users\opilane\source\repos\Valjataga\elemendidXaml\elemendidXaml\obj\Debug\netstandard2.0\Listview.xaml.g.cs
 C:\Users\opilane\source\repos\Valjataga\elemendidXaml\elemendidXaml\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 C:\Users\opilane\source\repos\Valjataga\elemendidXaml\elemendidXaml\obj\Debug\netstandard2.0\Picker.xaml.g.cs
-C:\Users\opilane\source\repos\Valjataga\elemendidXaml\elemendidXaml\obj\Debug\netstandard2.0\popupwindows.xaml.g.cs
 C:\Users\opilane\source\repos\Valjataga\elemendidXaml\elemendidXaml\obj\Debug\netstandard2.0\Switch.xaml.g.cs
 C:\Users\opilane\source\repos\Valjataga\elemendidXaml\elemendidXaml\obj\Debug\netstandard2.0\tableView.xaml.g.cs
 C:\Users\opilane\source\repos\Valjataga\elemendidXaml\elemendidXaml\obj\Debug\netstandard2.0\Timer.xaml.g.cs
@@ -25,3 +24,9 @@ C:\Users\opilane\source\repos\Valjataga\elemendidXaml\elemendidXaml\obj\Debug\ne
 C:\Users\opilane\source\repos\Valjataga\elemendidXaml\elemendidXaml\obj\Debug\netstandard2.0\iphone5.xaml.g.cs
 C:\Users\opilane\source\repos\Valjataga\elemendidXaml\elemendidXaml\obj\Debug\netstandard2.0\iphone11.xaml.g.cs
 C:\Users\opilane\source\repos\Valjataga\elemendidXaml\elemendidXaml\obj\Debug\netstandard2.0\iphone12.xaml.g.cs
+C:\Users\opilane\source\repos\Valjataga\elemendidXaml\elemendidXaml\obj\Debug\netstandard2.0\iphone10.xaml.g.cs
+C:\Users\opilane\source\repos\Valjataga\elemendidXaml\elemendidXaml\obj\Debug\netstandard2.0\TextToSpeech.xaml.g.cs
+C:\Users\opilane\source\repos\Valjataga\elemendidXaml\elemendidXaml\obj\Debug\netstandard2.0\iphone6s.xaml.g.cs
+C:\Users\opilane\source\repos\Valjataga\elemendidXaml\elemendidXaml\obj\Debug\netstandard2.0\iphone7.xaml.g.cs
+C:\Users\opilane\source\repos\Valjataga\elemendidXaml\elemendidXaml\obj\Debug\netstandard2.0\iphone8plus.xaml.g.cs
+C:\Users\opilane\source\repos\Valjataga\elemendidXaml\elemendidXaml\obj\Debug\netstandard2.0\MapPage.xaml.g.cs
