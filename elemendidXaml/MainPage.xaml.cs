@@ -54,14 +54,9 @@ namespace elemendidXaml
             await Navigation.PushAsync(new Switch());
         }
 
-        private async void Button_Clicked_8(object sender, EventArgs e)
-        {
-            await Navigation.PushAsync(new TextToSpeech());
-        }
-
         private async void Button_Clicked_9(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new MainPage());
+            await Navigation.PushAsync(new MapPage());
         }
     }
 }

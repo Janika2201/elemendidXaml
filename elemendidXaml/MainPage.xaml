@@ -14,7 +14,6 @@
             <Button Text="Picker" Clicked="Button_Clicked_4" TextColor="White" BackgroundColor="DarkSlateGray"></Button>
             <Button Text="TimerPicker" Clicked="Button_Clicked_5" TextColor="White" BackgroundColor="DarkSlateGray"></Button>
             <Button Text="Switch" Clicked="Button_Clicked_7" TextColor="White" BackgroundColor="DarkSlateGray" ></Button>
-            <Button Text="TextToSpeech" Clicked="Button_Clicked_8" TextColor="White" BackgroundColor="DarkSlateGray" ></Button>
             <Button Text="Map" Clicked="Button_Clicked_9" TextColor="White" BackgroundColor="DarkSlateGray" ></Button>
 
         </StackLayout>
